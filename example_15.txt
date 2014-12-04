@@ -1,0 +1,13 @@
+HelloHello
+
+class City
+attr_accessor :name, :township
+def initialize(name, township)
+  @name = name
+  @township = township
+  @schools = []
+  SCHOOLS << self
+  end
+def add_school(name, number_students)
+@schools << School.new(name, number_students)
+end
