@@ -6,9 +6,9 @@ def nearest_integer(array, i)
 		#evaluate whether the number at the current index is greater
 		#then the passed in index.
 		if number > array[n]
-			puts nil
+			nil
 		elsif number == array[n]
-			puts nil
+			nil
 		elsif number < array[n]
 			number = array[n]
 			new_num = n
