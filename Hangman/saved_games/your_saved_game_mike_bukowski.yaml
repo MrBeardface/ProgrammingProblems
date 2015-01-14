@@ -1,0 +1,30 @@
+--- !ruby/object:Game
+comp: !ruby/object:Computer
+  word:
+  - g
+  - a
+  - l
+  - l
+  - i
+  - v
+  - a
+  - n
+  - t
+player: !ruby/object:Player {}
+guesses_array:
+- 
+- a
+- 
+- 
+- 
+- 
+- a
+- 
+- 
+wrong:
+- e
+- b
+- b
+turns: 3
+first: mike
+last: bukowski
