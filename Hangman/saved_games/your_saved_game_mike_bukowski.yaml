@@ -1,15 +1,12 @@
 --- !ruby/object:Game
 comp: !ruby/object:Computer
   word:
-  - g
+  - r
   - a
-  - l
-  - l
+  - c
   - i
-  - v
-  - a
   - n
-  - t
+  - g
 player: !ruby/object:Player {}
 guesses_array:
 - 
@@ -18,13 +15,8 @@ guesses_array:
 - 
 - 
 - 
-- a
-- 
-- 
 wrong:
 - e
-- b
-- b
-turns: 3
+turns: 5
 first: mike
 last: bukowski
